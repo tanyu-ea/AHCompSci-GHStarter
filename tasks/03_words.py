@@ -10,13 +10,13 @@ Uppercase words: ['APPLE', 'BANANA', 'PEAR', 'KIWI', 'PLUM']
 words = ["apple", "banana", "pear", "kiwi", "plum"]
 
 # TODO: replace 0 with the number of words in the list
-total_words = 0
+total_words = 5
 
 # TODO: replace "" with the longest word in the list
-longest_word = ""
+longest_word = "banana"
 
 # TODO: replace [] with a list of the words converted to uppercase
-uppercase_words = []
+uppercase_words = ["APPLE" , "BANANA" , "PEAR" , "KIWI" , "PLUM"]
 
 print(f"Total words: {total_words}")
 print(f"Longest word: {longest_word}")
