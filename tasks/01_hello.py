@@ -6,7 +6,7 @@ Instructions:
 """
 
 # TODO: replace with your own first name
-name = "Ada"
+name = "tanyu"
 
 print(f"Hello, {name}!")
 print("I can run Python in Codespaces.")
