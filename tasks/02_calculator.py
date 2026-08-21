@@ -10,17 +10,23 @@ Expected final output:
 
 def add(a, b):
     # TODO: return the sum of a and b
-    return 0
+    c = a + b
+
+    return c
 
 
 def multiply(a, b):
     # TODO: return the product of a and b
-    return 0
+    c = a * b
+
+    return c
 
 
 def subtract(a, b):
     # TODO: return a minus b
-    return 0
+    c = a - b
+
+    return c
 
 
 print(add(3, 5))
